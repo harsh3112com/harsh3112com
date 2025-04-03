@@ -29,7 +29,7 @@
 
 **📊 GitHub Stats:**  
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh3112com&show_icons=true&theme=radical)
+![Harsh GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh3112com&show_icons=true&theme=radical)
 
 **🌎 Connect with Me:**  
 
