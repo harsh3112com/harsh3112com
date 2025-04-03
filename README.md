@@ -5,7 +5,7 @@
 - 💻 Full-Stack Developer with expertise in Web Development
 - 🔍 Proficient in Frontend & Backend Development using React.js & Django
 - 🏆 Participated in multiple hackathons, including TechTronix Hackathon
-- 📈 Passionate about DSA & problem-solving, aiming for MNC placements
+- 📈 Passionate about DSA & problem-solving
 - 📚 Strong in C++, Python, and JavaScript
 - 🎯 Focused on building scalable & innovative web applications
 
