@@ -1,7 +1,7 @@
 ### Hi there, I'm Harsh Bediya! 👋
 
 **🚀 About Me:**  
-- 🎓 3rd-year Computer Science student at Technocrats Institute of Technology (TIT)
+- 🎓 4th-year Computer Science student at Technocrats Institute of Technology (TIT)
 - 💻 Full-Stack Developer with expertise in Web Development
 - 🔍 Proficient in Frontend & Backend Development using React.js & Django
 - 🏆 Participated in multiple hackathons, including TechTronix Hackathon
